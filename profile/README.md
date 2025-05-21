@@ -4,7 +4,7 @@ Welcome to **Fluffy-Swizzle Interactive** — a collaborative game development h
 
 ## 🚀 What We're About
 
-This GitHub organization hosts all the group projects developed by us — Fluffy and Swizzle — as part of our shared passion for interactive storytelling, pixel-perfect visuals, and engaging gameplay mechanics.
+This GitHub organization hosts all the group projects developed by us — **Fluffy** and **Swizzle** — as part of our shared passion for interactive storytelling, *perfectly-imperfect* pixel art, and engaging gameplay mechanics.
 
 Whether it's a jam entry or a long-term project, everything you find here is crafted with care, creativity, and a good dose of chaos (the good kind).
 
