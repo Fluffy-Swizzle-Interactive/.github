@@ -1,4 +1,4 @@
-# 🐔 Fluffy-Swizzle Interactive 🎮
+# 🎮 Fluffy-Swizzle Interactive 🎮
 
 Welcome to **Fluffy-Swizzle Interactive** — a collaborative game development hub by two best friends who love building, breaking, and breathing life into fun and creative digital projects.
 
