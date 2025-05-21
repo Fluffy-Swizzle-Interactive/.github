@@ -18,7 +18,7 @@ A roguelike action game where AI battles coders in a tech-fueled showdown for co
 ---
 
 ## 🧑‍💻 Team
-- **FluffyMcChicken** – Game designer & full-stack developer 🧠
+- **FluffyProgramming** – Game designer & full-stack developer 🧠
 - **SwizzleShizzle** – Game designer & full-stack developer ⚙️
 
 Together, we form **Fluffy-Swizzle Interactive** – a duo of devs who turn weekend ideas into real, playable fun.
